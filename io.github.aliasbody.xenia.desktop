@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Xenia
+Icon=io.github.aliasbody.xenia
+Exec=xenia.sh
+Comment=Xenia is an experimental emulator for the Xbox 360
+Categories=Game;
